@@ -37,6 +37,6 @@ cosmwasm-std = "2.1.4"
 cw-storage-plus = "2.0.0"
 cw2 = "2.0.0"
 
-babylon-bindings = { git = "https://github.com/babylonlabs-io/bindings", branch = "f/release-0.2" }
+babylon-bindings = { git = "https://github.com/babylonlabs-io/bindings", tag = "v0.2.0" }
 
 [dev-dependencies]
